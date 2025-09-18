@@ -74,7 +74,7 @@ python atm.py
 
 # output
 
-
+<img width="1920" height="1030" alt="Image" src="https://github.com/user-attachments/assets/a2e1810a-44c5-49bb-ae89-55423d59c30c" />
 
 # 🚀 Future Improvements
 
