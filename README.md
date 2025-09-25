@@ -64,7 +64,7 @@ Deposited. New balance: 1500
 
 Clone this repository:
 
-git clone https://github.com/your-username/simple-atm-simulation.git
+git clone https://github.com/meysiii/SIMPLE-ATM-SIMULATION
 cd simple-atm-simulation
 
 
